@@ -1,0 +1,9 @@
+
+//ES5
+//export - modules.exports //const printDetails4 = require("./cool.js");
+//import - require module.exports = printDetails4
+
+//ES6
+//2 types of import and export
+//1 .  names import & export  - preferred
+//2. default import & export 
